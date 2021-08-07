@@ -1,3 +1,103 @@
+Jacquemet Julien
+============
+
+-------------------     ----------------------------
+93 chemin des guilloudières         jacquemet.julien@gmail.com
+Marcilloles                          @twitter_handle
+FRANCE                           XXXXXXXXXX
+-------------------     ----------------------------
+
+Formation
+---------
+
+2010-2011
+:   **Master MAE - Management des Administration et Entreprise**; IAE Grenoble
+
+    *Gestion d'entreprise, économie, finance, droit du travail*
+
+2006-2011
+:   **Diplöme d'ingénieur Informatique et Réseaux, INP- **; ESISAR valence
+
+    *Semestre Spécial MANINTEC: Management de l'innovation et la technologie*
+    *Informatique, développement, réseaux, administration système*
+
+Experience
+----------
+
+**Chargé de projets informatique**
+2016-2021
+* Gestion de projet de A à Z, allant de l'offre commerciale (Appel d'offre), conditionnement du besoin, mise en place de l'équipe, rédaction des documents techniques,
+aide au développement, gestion de la sous-traitance, mise en place/écriture (script) des campagnes de tests et intégration, mise en place des sites pilotes et suivi/supports.
+
+** ENEDIS (de 2017 à ajourd'hui) : Suivi client (réunion mensuel, assistance ..), mise en place de l'architecture backend, suivi et aide au déploiement logiciel Serveur et Embarqué (Yocto), développement des scripts de tests et mise en place de tests et recette. En charge des déploiements de sites pilotes (2) et support client.
+** DIRNO, DIRIF ( de 2018 à aujourd'hui): Du démarchage commerciale jusqu'au déploiement logiciel, pilotage d'une équipe interne
+** Tunnels (de 2016 à 2020) : Vuache, ATMB, Rocade L2, pilotage des développements, recette, installation et support
+** ...
+
+
+**Lead Developpeur / Gestion d'équipe**
+2011-2020
+Edition des documents techniques, mise en place de l'architecture, développement et intégration.
+
+* Développement d'application sous Android
+* Développement d'application en Python
+* Développement d'application sous QT (C/C++) sous Linux et Windows (REST API)
+* Développement de page page Web (JS, Jquery, HTML/CSS) pour la supervision
+* Adaptation de logiciel OpenSource (Multi Language)
+
+Technical Experience
+--------------------
+
+My Cool Side Project
+:   For items which don't have a clear time ordering, a definition
+    list can be used to have named items.
+
+    * These items can also contain lists, but you need to mind the
+      indentation levels in the markdown source.
+    * Second item.
+
+Open Source
+:   List open source contributions here, perhaps placing emphasis on
+    the project names, for example the **Linux Kernel**, where you
+    implemented multithreading over a long weekend, or **node.js**
+    (with [link](http://nodejs.org)) which was actually totally
+    your idea...
+
+Programming Languages
+:   **first-lang:** Here, we have an itemization, where we only want
+    to add descriptions to the first few items, but still want to
+    mention some others together at the end. A format that works well
+    here is a description list where the first few items have their
+    first word emphasized, and the last item contains the final few
+    emphasized terms. Notice the reasonably nice page break in the pdf
+    version, which wouldn't happen if we generated the pdf via html.
+
+:   **second-lang:** Description of your experience with second-lang,
+    perhaps again including a [link] [ref], this time placing the url
+    reference elsewhere in the document to reduce clutter (see source
+    file). 
+
+:   **obscure-but-impressive-lang:** We both know this one's pushing
+    it.
+
+:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+
+[ref]: https://github.com/githubuser/superlongprojectname
+
+Extra Section, Call it Whatever You Want
+----------------------------------------
+
+* Human Languages:
+
+     * English (native speaker)
+     * ???
+     * This is what a nested list looks like.
+
+* Random tidbit
+
+* Other sort of impressive-sounding thing you did
+
+
 ---
 layout: default
 ---
