@@ -16,7 +16,7 @@ Formation
     Gestion d'entreprise, économie, finance, droit du travail
 
 2006-2011
-:   **Diplöme d'ingénieur Informatique et Réseaux, INP**; ESISAR valence
+:   **Diplöme d'Ingénieur Informatique et Réseaux**; ESISAR (Grenoble INP) Valence
 
     Semestre Spécial MANINTEC: Management de l'innovation et la technologie
     Informatique, développement, réseaux, administration système
@@ -24,20 +24,19 @@ Formation
 Experience
 ----------
 
-**Chargé de projets informatique**
-2016-2021
+**Chargé de projets informatique** à SEE Critical Comms Group (2016 à aujourd'hui).
 
 Gestion de projet de A à Z, allant de l'offre commerciale (Appel d'offre), conditionnement du besoin, mise en place de l'équipe, rédaction des documents techniques,
 aide au développement, gestion de la sous-traitance, mise en place/écriture (script) des campagnes de tests et intégration, mise en place des sites pilotes et suivi/supports.
 
 :   **ENEDIS** (de 2017 à ajourd'hui) : Suivi client (réunion mensuel, assistance ..), mise en place de l'architecture backend, suivi et aide au déploiement logiciel Serveur et Embarqué (Yocto), développement des scripts de tests et mise en place de tests et recette. En charge des déploiements de sites pilotes (2) et support client.
-:   **DIRNO, DIRIF** ( de 2018 à aujourd'hui): Du démarchage commerciale jusqu'au déploiement logiciel, pilotage d'une équipe interne
-:   **Tunnels** (de 2016 à 2020) : Vuache, ATMB, Rocade L2, pilotage des développements, recette, installation et support
+:   **DIRNO, DIRIF** ( de 2018 à aujourd'hui): Du démarchage commerciale jusqu'au déploiement logiciel, pilotage d'une équipe interne.
+:   **Tunnels (Puymorens, ATMB, Rocade L2)** (de 2016 à 2020) : pilotage des développements, recette, installation et support
 
 
 
-**Lead Developpeur / Gestion d'équipe**
-2011-2020
+**Lead Developpeur / Gestion d'équipe** à SEE Critical Comms Group (2011 à 2019).
+
 Edition des documents techniques, mise en place de l'architecture, développement et intégration.
 
 * Développement d'application sous Android
