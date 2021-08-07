@@ -13,26 +13,27 @@ Formation
 2010-2011
 :   **Master MAE - Management des Administration et Entreprise**; IAE Grenoble
 
-    *Gestion d'entreprise, économie, finance, droit du travail*
+    Gestion d'entreprise, économie, finance, droit du travail
 
 2006-2011
-:   **Diplöme d'ingénieur Informatique et Réseaux, INP- **; ESISAR valence
+:   **Diplöme d'ingénieur Informatique et Réseaux, INP**; ESISAR valence
 
-    *Semestre Spécial MANINTEC: Management de l'innovation et la technologie*
-    *Informatique, développement, réseaux, administration système*
+    Semestre Spécial MANINTEC: Management de l'innovation et la technologie
+    Informatique, développement, réseaux, administration système
 
 Experience
 ----------
 
 **Chargé de projets informatique**
 2016-2021
-* Gestion de projet de A à Z, allant de l'offre commerciale (Appel d'offre), conditionnement du besoin, mise en place de l'équipe, rédaction des documents techniques,
+
+Gestion de projet de A à Z, allant de l'offre commerciale (Appel d'offre), conditionnement du besoin, mise en place de l'équipe, rédaction des documents techniques,
 aide au développement, gestion de la sous-traitance, mise en place/écriture (script) des campagnes de tests et intégration, mise en place des sites pilotes et suivi/supports.
 
-** ENEDIS (de 2017 à ajourd'hui) : Suivi client (réunion mensuel, assistance ..), mise en place de l'architecture backend, suivi et aide au déploiement logiciel Serveur et Embarqué (Yocto), développement des scripts de tests et mise en place de tests et recette. En charge des déploiements de sites pilotes (2) et support client.
-** DIRNO, DIRIF ( de 2018 à aujourd'hui): Du démarchage commerciale jusqu'au déploiement logiciel, pilotage d'une équipe interne
-** Tunnels (de 2016 à 2020) : Vuache, ATMB, Rocade L2, pilotage des développements, recette, installation et support
-** ...
+:   **ENEDIS** (de 2017 à ajourd'hui) : Suivi client (réunion mensuel, assistance ..), mise en place de l'architecture backend, suivi et aide au déploiement logiciel Serveur et Embarqué (Yocto), développement des scripts de tests et mise en place de tests et recette. En charge des déploiements de sites pilotes (2) et support client.
+:   **DIRNO, DIRIF** ( de 2018 à aujourd'hui): Du démarchage commerciale jusqu'au déploiement logiciel, pilotage d'une équipe interne
+:   **Tunnels** (de 2016 à 2020) : Vuache, ATMB, Rocade L2, pilotage des développements, recette, installation et support
+
 
 
 **Lead Developpeur / Gestion d'équipe**
